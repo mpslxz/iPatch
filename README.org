@@ -1,3 +1,6 @@
 * iPatch: Recreate high resolution images with tiny image patches
 A fun project for computer vision/image processing workshop at UBC.
+** Original
+[[original.jpg]]
+** Patched
 [[iPatched.png]]
